@@ -2,4 +2,6 @@ This is the Master
 other Branch
 B Branch
 123
-This is all the work i did in this Branch
+This is all the work i did in Branch Edit A
+This is all the work i did in another Branch
+It is quit a lot of text i am working with here
