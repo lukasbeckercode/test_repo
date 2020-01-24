@@ -3,3 +3,4 @@ other Branch
 B Branch
 123
 This is all the work i did in this Branch
+Now i am adding some more Text to branch A
