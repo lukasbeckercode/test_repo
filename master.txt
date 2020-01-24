@@ -1,12 +1,9 @@
-This is the Master
-other Branch
-B Branch
-123
-
 
 Now i am adding some more Text to branch A
 
 This is all the work i did in Branch Edit A
 This is all the work i did in another Branch
 It is quit a lot of text i am working with here
+
+This is fun!
 
